@@ -1,0 +1,48 @@
+body {
+  color: purple;
+  background-image: url("flowers.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p {
+  font-weight: bold;
+  color: darkgreen;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 1px;
+}
+
+#div1 {
+  border-style: dotted;
+  border-color: darksalmon;
+  border-width: 5px;
+  background-color: rgba(240, 192, 220, 0.7);
+  margin-bottom: 20px;
+}
+
+#div2 {
+  border-style: dotted;
+  border-width: 5px;
+  border-color: darkblue;
+  background-color: rgba(192, 236, 240, 0.7);
+}
+
+#div3 {
+  background-color: rgba(244, 247, 244, 0.7);
+  border-style: solid;
+  border-color: black;
+  position: absolute;
+  bottom: 0;
+}
+
+#ves-box {
+  padding: 10px;
+}
+
+#submit1 {
+  background-color: lightblue;
+}
+
+.ms-Smith {
+  background-color: orange;
+}
